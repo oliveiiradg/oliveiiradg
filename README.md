@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Douglas
 
-<!--
-**oliveiiradg/oliveiiradg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas, com foco em **Python e Análise de Dados** 
+📊 Experiência prática com manipulação de dados, análise de indicadores e organização de informações  
+🐍 Conhecimentos em Python, Pandas, Excel, SQL básico e Power BI  
+🧠 Perfil analítico, curioso e com facilidade de aprendizado, buscando oportunidade de estágio ou posição júnior em dados ou tecnologia
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Áreas de Atuação
+- Análise de Dados
+- Automação de processos
+- Sistemas em Python com interface gráfica
+- Manipulação de dados em Excel
+
+-
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/oliveiiradg/
+- GitHub: https://github.com/oliveiiradg
+
