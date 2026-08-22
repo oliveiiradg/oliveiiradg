@@ -1,20 +1,26 @@
-# 👋 Olá, eu sou o Douglas
+# Douglas Barbosa
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas, com foco em **Python e Análise de Dados** 
-📊 Experiência prática com manipulação de dados, análise de indicadores e organização de informações  
-🐍 Conhecimentos em Python, Pandas, Excel, SQL básico e Power BI  
-🧠 Perfil analítico, curioso e com facilidade de aprendizado, buscando oportunidade de estágio ou posição júnior em dados ou tecnologia
+Automação e integração de sistemas com IA aplicada.
+
+Pego processos manuais, entendo o problema e entrego funcionando.
+Low-code quando resolve, código quando precisa.
 
 ---
 
-## 🧠 Áreas de Atuação
-- Análise de Dados
-- Automação de processos
-- Sistemas em Python com interface gráfica
-- Manipulação de dados em Excel
+## Stack
 
--
-## 📫 Contato
-- LinkedIn: https://www.linkedin.com/in/oliveiiradg/
-- GitHub: https://github.com/oliveiiradg
+Python · FastAPI · Power Automate · Power Apps · Power BI  
+REST API · SOAP · SQLite · Git  
+Gemini API · DeepSeek · Claude API
 
+---
+
+## Projetos
+
+**DOERJ Monitor** — pipeline que monitora o Diário Oficial do RJ,
+processa PDFs com LLM e envia boletim executivo por e-mail.  
+→ [repositório](https://github.com/oliveiiradg/DOERJ-Monitor)
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/oliveiiradg/)
