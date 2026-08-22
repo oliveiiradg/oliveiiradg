@@ -11,7 +11,6 @@ Low-code quando resolve, código quando precisa.
 
 Python · FastAPI · Power Automate · Power Apps · Power BI  
 REST API · SOAP · SQLite · Git  
-Gemini API · DeepSeek · Claude API
 
 ---
 
