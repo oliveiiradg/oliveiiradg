@@ -18,7 +18,6 @@ REST API · SOAP · SQLite · Git
 
 **DOERJ Monitor** — pipeline que monitora o Diário Oficial do RJ,
 processa PDFs com LLM e envia boletim executivo por e-mail.  
-→ [repositório](https://github.com/oliveiiradg/DOERJ-Monitor)
 
 ---
 
