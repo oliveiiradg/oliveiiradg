@@ -36,13 +36,6 @@ Power BI com 72 tabelas, 19 medidas DAX e heatmap 5×5 cobrindo 13 áreas organi
 
 ---
 
-## 📈 GitHub Stats
-
-![Douglas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oliveiiradg&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiiradg&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliveiiradg/)
